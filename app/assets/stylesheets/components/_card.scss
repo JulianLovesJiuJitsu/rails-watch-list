@@ -1,0 +1,12 @@
+.list-card {
+  background-color: #f4f4f4;
+  border: 1px solid #e3e3e3;
+  padding: 16px 40px;
+  width: 240px;
+}
+
+.card-container {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
