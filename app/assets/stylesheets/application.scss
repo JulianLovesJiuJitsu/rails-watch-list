@@ -11,3 +11,15 @@
 // Your CSS partials
 @import "components/index";
 @import "pages/index";
+
+
+.movie-card {
+  border: 1px solid grey;
+  padding: 24px;
+  background-color: grey;
+  width: 320px;
+    .movie-image {
+      height: 120px;
+      width: auto;
+    }
+}
